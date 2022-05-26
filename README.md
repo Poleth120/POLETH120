@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Poleth120/POLETH120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Now, I am hellping with the creation of a web page for the company EPN TECH EP.
 - ⚡ Fun fact: I like to read computer related articles and programming.
 
--->
+
